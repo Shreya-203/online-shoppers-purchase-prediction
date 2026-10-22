@@ -1,4 +1,3 @@
-```python
 import gradio as gr
 import pandas as pd
 import joblib
@@ -215,4 +214,4 @@ with gr.Blocks(
 
 if __name__ == "__main__":
     demo.launch(server_name="0.0.0.0", server_port=10000)
-```
+
